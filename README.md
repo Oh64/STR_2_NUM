@@ -5,3 +5,5 @@
 STR 2 NUM convert your text to Number and convert number to Text !
 
 ## 137 character are already available the program will send the results in number to L1 or returns the text translated into str0
+
+You can use this code as you want ! No license or other ;)
