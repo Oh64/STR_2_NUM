@@ -1,6 +1,6 @@
 # STR_2_NUM
 
-## 137 character are already available the program will send the results in number to L1 or returns the text translated into str0
+## About 100 character are already available the program will send the results in number to L1 or returns the text translated into str0
 
 STR 2 NUM convert your text to Number and convert number to Text !
 
